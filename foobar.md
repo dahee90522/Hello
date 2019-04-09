@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## c Example
 ```c
 #include<stdio.h>
@@ -6,6 +7,8 @@ int main(){
 }
 ```
 
+=======
+>>>>>>> 0cb6991b63e6a5ad4c5f1bdb27889fda5fe38c7a
 ## JavaHello World Example
 ```Java
 class Hello{
